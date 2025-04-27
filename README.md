@@ -40,6 +40,16 @@
 
 ---
 
+## 🖨️ 3D Printing Expertise
+- Creality Series (Ender, CR Series)
+- Bambulab Series (P1P, P1S, X1C)
+- ZeroG Mercury One / Mercury Two
+- Voron Series (V2.4, Trident, Switchwire)
+
+Specialized in high-speed CoreXY builds, multi-material setups, and high-temp material printing (e.g., Nylon, Polycarbonate).
+
+---
+
 ## 📜 Certifications
 - 3D Printing & Additive Manufacturing
 - UTCC Professional Certificates
@@ -50,7 +60,7 @@
 ---
 
 ## 📫 Contact
-- 📧 Email: [your-email@example.com]
+- 📧 Email: icezaza.jar@gmail.com
 
 ---
 
