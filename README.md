@@ -21,10 +21,10 @@
 
 ## 🎓 Education
 - **Master of Engineering in Electrical Engineering** (2024–Present)  
-  King Mongkut's University of Technology North Bangkok
+  Naresuan University
 
 - **Bachelor of Engineering in Computer Engineering** (2018–2022)  
-  King Mongkut's University of Technology North Bangkok
+  Naresuan University
 
 ## 🛠️ Skills
 - **Software:** Microsoft Office (Word, Excel, PowerPoint), Looker Studio, Autodesk Fusion 360, Ki-Cad 9, Orca Slicer, DigSilent PowerFactory
@@ -33,7 +33,7 @@
 - **Certifications:** 3D Printing & Additive Manufacturing, UTCC Professional Certificates, MATLAB onramp, Google Data Analytics Professional Certificate, Research Ethics Training
 
 ## 📫 Contact
-- 📧 Email: [your-email@example.com] (replace with your real contact email)
+- 📧 Email: [icezaza.jar@gmail.com]
 
 ---
 
