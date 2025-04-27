@@ -41,12 +41,18 @@
 ---
 
 ## 🖨️ 3D Printing Expertise
-- Creality Series (Ender, CR Series)
-- Bambulab Series (P1P, P1S, X1C)
-- ZeroG Mercury One.1
-- Voron Series (V2.4, Trident, Switchwire)
 
-Specialized in high-speed CoreXY builds, multi-material setups, and high-temp material printing (e.g., Nylon, Polycarbonate).
+![Creality](https://img.shields.io/badge/Creality-00AEEF?style=for-the-badge&logo=creality&logoColor=white)
+![Bambulab](https://img.shields.io/badge/Bambulab-111111?style=for-the-badge&logoColor=white)
+![ZeroG](https://img.shields.io/badge/ZeroG-2E2E2E?style=for-the-badge&logoColor=white)
+![Voron](https://img.shields.io/badge/Voron-FF0000?style=for-the-badge&logoColor=white)
+
+- **Creality Series** (Ender, K1 Series)
+- **Bambulab Series** (P1P, P1S, X1C)
+- **ZeroG Mercury One.1**
+- **Voron Series** (V2.4, Trident, Switchwire)
+
+Specialized in **high-speed CoreXY builds**, **multi-material setups**, and **high-temp material printing** (e.g., Nylon, Polycarbonate).
 
 ---
 
