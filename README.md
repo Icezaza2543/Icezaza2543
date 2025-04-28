@@ -8,15 +8,15 @@
 ## 🛠️ Work Experience
 - **Freelance 3D Mechanical Designer** (2023–Present)  
 - **Teaching Assistant** - Electrical Circuit for Computer Engineering (2023)  
-- **Internship** - Synology NAS & Zyxel Network Configuration (2022–2023)
+- **Internship** - Network Configuration , Circuit Design & Interfacing (XEUSLAB) (2022–2023)
 
 ## 🎯 Activities
 - Speaker - Technology and CAD Workshop (2024)
 - IoT Project Development and Academic Contests
 
 ## 🎓 Education
-- **Master of Engineering in Electrical Engineering** (KMUTNB) (2024–Present)
-- **Bachelor of Engineering in Computer Engineering** (KMUTNB) (2018–2022)
+- **Master of Engineering in Electrical Engineering** (Naresuan University) (2024–Present)
+- **Bachelor of Engineering in Computer Engineering** (Naresuan University) (2018–2022)
 
 ---
 
