@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Icezaza2543!
 
 🔹 Passionate about **Embedded Systems**, **IoT Development**, **Electrical Engineering**, and **3D Printing Technology**  
-🔹 Strong experience with **ESP32**, **ESP-IDF**, **Arduino**, **PlatformIO**, **FDM 3D Printer Design**
+🔹 Strong experience with **ESP32**, **Arduino**, **PlatformIO**, **FDM 3D Printer Design**
 
 ---
 
