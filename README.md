@@ -1,6 +1,7 @@
 <div align="center">
-  <h1>👋 Hi there, I'm Icezaza2543!</h1>
-  <h3>Passionate about Embedded Systems, IoT Development, Electrical Engineering, and 3D Printing Technology</h3>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Icezaza2543&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Embedded%20Systems%20%7C%20IoT%20%7C%203D%20Printing&descAlignY=55&descAlign=50" alt="Icezaza2543 Header" />
+
+  <br><br>
   <p>
     <i>"Always keep building and learning."</i>
   </p>
@@ -40,33 +41,34 @@ Obtain a position relating to Hardware/Software Engineering, Network & IT Infras
 ## 🛠️ Skills & Tools
 
 <div align="center">
-
-### 💻 Programming & Embedded Systems
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" />
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
-<img src="https://img.shields.io/badge/PlatformIO-FF6600?style=for-the-badge&logo=PlatformIO&logoColor=white" />
-
-### 📐 CAD & Circuit Design
-<img src="https://img.shields.io/badge/Fusion%20360-FAA21B?style=for-the-badge&logo=Autodesk&logoColor=white" />
-<img src="https://img.shields.io/badge/KiCad-314CB3?style=for-the-badge&logo=KiCad&logoColor=white" />
-<img src="https://img.shields.io/badge/Proteus-1A6996?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white" />
-
-### 🖨️ 3D Printing Expertise
-<img src="https://img.shields.io/badge/Creality-00AEEF?style=for-the-badge&logo=creality&logoColor=white" />
-<img src="https://img.shields.io/badge/Bambulab-111111?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/ZeroG-2E2E2E?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Voron-FF0000?style=for-the-badge&logoColor=white" />
-
-### 🌐 Network, IT Infrastructure & Data
-<img src="https://img.shields.io/badge/Synology-31373D?style=for-the-badge&logo=Synology&logoColor=white" />
-<img src="https://img.shields.io/badge/Zyxel-009AD9?style=for-the-badge&logo=Zyxel&logoColor=white" />
-<img src="https://img.shields.io/badge/Mikrotik-0056A2?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
-<img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white" />
-
+  <table>
+    <tr>
+      <td align="center" width="25%"><b>💻 Programming</b><br><br>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br><br>
+        <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" /><br><br>
+        <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" /><br><br>
+        <img src="https://img.shields.io/badge/PlatformIO-FF6600?style=for-the-badge&logo=PlatformIO&logoColor=white" />
+      </td>
+      <td align="center" width="25%"><b>📐 CAD & Circuit</b><br><br>
+        <img src="https://img.shields.io/badge/Fusion%20360-FAA21B?style=for-the-badge&logo=Autodesk&logoColor=white" /><br><br>
+        <img src="https://img.shields.io/badge/KiCad-314CB3?style=for-the-badge&logo=KiCad&logoColor=white" /><br><br>
+        <img src="https://img.shields.io/badge/Proteus-1A6996?style=for-the-badge&logoColor=white" /><br><br>
+        <img src="https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white" />
+      </td>
+      <td align="center" width="25%"><b>🖨️ 3D Printing</b><br><br>
+        <img src="https://img.shields.io/badge/Creality-00AEEF?style=for-the-badge&logo=creality&logoColor=white" /><br><br>
+        <img src="https://img.shields.io/badge/Bambulab-111111?style=for-the-badge&logoColor=white" /><br><br>
+        <img src="https://img.shields.io/badge/ZeroG-2E2E2E?style=for-the-badge&logoColor=white" /><br><br>
+        <img src="https://img.shields.io/badge/Voron-FF0000?style=for-the-badge&logoColor=white" />
+      </td>
+      <td align="center" width="25%"><b>🌐 Network & IT</b><br><br>
+        <img src="https://img.shields.io/badge/Synology-31373D?style=for-the-badge&logo=Synology&logoColor=white" /><br><br>
+        <img src="https://img.shields.io/badge/Zyxel-009AD9?style=for-the-badge&logo=Zyxel&logoColor=white" /><br><br>
+        <img src="https://img.shields.io/badge/Mikrotik-0056A2?style=for-the-badge&logoColor=white" /><br><br>
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 - **3D Printing & CAD:** Design & Build of FDM 3D printers, Parametric & Mesh Design (Autodesk Fusion 360, SketchUp, TinkerCAD). Slicing Software (OrcaSlicer, Cura, Bambu Studio, Creality Print, Anycubic). Rendering with Keyshot.
