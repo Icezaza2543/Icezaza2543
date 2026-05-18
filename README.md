@@ -123,6 +123,4 @@ Obtain a position relating to Hardware/Software Engineering, Network & IT Infras
 
 ## 📫 Contact & Social
 - 📧 **Email:** [icezaza.jar@gmail.com](mailto:icezaza.jar@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/) *(แนะนำให้ใส่ลิงก์ LinkedIn ของคุณ)*
-- 🌐 **Facebook:** [Terasit Juntarasombut](https://www.facebook.com/) *(ถ้าต้องการให้คนติดต่อผ่านช่องทางส่วนตัว)*
-- 💬 **Discord:** `Icezaza2543` *(ถ้ามี)*
+- 💼 **LinkedIn:** [Terasit Juntarasombut](https://www.linkedin.com/in/terasit-j-29719a167/)
