@@ -110,12 +110,19 @@ Obtain a position relating to Hardware/Software Engineering, Network & IT Infras
 ---
 
 ## 📊 GitHub Stats
+<!-- 
+(เซิร์ฟเวอร์ของ GitHub Stats ล่มชั่วคราว จึงซ่อนไว้ก่อนครับ ถ้าระบบกลับมาใช้งานได้ สามารถลบ <!- - และ - -> ออกได้เลยครับ)
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Icezaza2543&show_icons=true&theme=radium&hide_border=true" alt="Icezaza2543's GitHub stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Icezaza2543&theme=radium&hide_border=true" alt="Icezaza2543's GitHub streak" width="48%" />
 </div>
+-->
+*Note: GitHub Stats is temporarily unavailable due to API rate limits.*
 
 ---
 
-## 📫 Contact
+## 📫 Contact & Social
 - 📧 **Email:** [icezaza.jar@gmail.com](mailto:icezaza.jar@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/) *(แนะนำให้ใส่ลิงก์ LinkedIn ของคุณ)*
+- 🌐 **Facebook:** [Terasit Juntarasombut](https://www.facebook.com/) *(ถ้าต้องการให้คนติดต่อผ่านช่องทางส่วนตัว)*
+- 💬 **Discord:** `Icezaza2543` *(ถ้ามี)*
