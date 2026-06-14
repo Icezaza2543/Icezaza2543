@@ -113,7 +113,6 @@ Obtain a position relating to Hardware/Software Engineering, Network & IT Infras
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Icezaza2543&show_icons=true&theme=radium&hide_border=true" alt="Icezaza2543's GitHub stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Icezaza2543&theme=radium&hide_border=true" alt="Icezaza2543's GitHub streak" width="48%" />
 </div>
 
