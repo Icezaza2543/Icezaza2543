@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Icezaza2543&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Embedded%20Systems%20%7C%20IoT%20%7C%203D%20Printing&descAlignY=55&descAlign=50" alt="Icezaza2543 Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Icezaza2543&fontSize=80&animation=fadeIn&fontAlignY=35&desc=3D%20Printing%20%7C%20Software%20%7C%20Embedded%20Systems&descAlignY=55&descAlign=50" alt="Icezaza2543 Header" />
 
   <br><br>
   <p>
@@ -11,19 +11,46 @@
 
 ---
 
-## 🎯 Career Objective
-Obtain a position relating to Hardware/Software Engineering, Network & IT Infrastructure, Embedded Systems, or 3D Printing Technology where my multidisciplinary technical skills can be utilized.
+## Hi, I'm Terasit (Icezaza)
+
+I build software and hardware for practical engineering problems — from 3D printer configurations and embedded motion control to web applications and materials data.
+
+My work connects **3D printing, embedded systems, web development, and data tools**. I'm the founder of **MitrFlow3D**, where I'm developing software for 3D printer farm operations, and I share Thai-language 3D printing lessons and technical analysis through **TJ3D**.
+
+I'm interested in engineering work and collaborations that bring software, electronics, and physical machines together.
+
+## 🚀 Selected Projects
+
+### 3D Printing, Hardware & Open Data
+
+| Project | What you'll find |
+| --- | --- |
+| [SpoolmanDB Community](https://github.com/Icezaza2543/SpoolmanDB-Community) | An independent community extension of SpoolmanDB with filament and materials data, schema validation, source provenance, and stable public IDs. |
+| [ZeroG Mercury One.1 × NebulaFrame 370](https://github.com/Icezaza2543/ZeroG-MercuryOne.1-With-NebulaFrame-370) | My CoreXY conversion build based on ZeroG Mercury One.1, with a Hydra bed, Klipper configuration, CANbus toolhead setup, and build documentation. |
+| [Automatic Wire Cutter](https://github.com/Icezaza2543/Wire-Cutter-Machine) | Arduino firmware for feeding, stripping, and cutting wire, using stepper motion control, an LCD interface, and a non-blocking state machine. |
+| [IceBlazeLAB](https://github.com/Icezaza2543/IceBlazePage) | A service website and 3D printing cost estimator with browser-based model viewing and print request submission. |
+
+Also: [Creality K1 Max Klipper configurations and macros](https://github.com/Icezaza2543/K1-Max-Klipper-2025).
+
+### Web Applications & Data Tools
+
+| Project | What you'll find |
+| --- | --- |
+| [FinDash AI](https://github.com/Icezaza2543/FinDashAI) | A personal finance app with Thai bank statement imports, browser-local storage, budgets, and cash flow reports. |
+| [Marine Chariot VTuber Analytics](https://github.com/Icezaza2543/Marine-Chariot-VTuber-Analytics) | A fan-made React and TypeScript dashboard for YouTube analytics, content trends, and optional X signals; unaffiliated with the creator. |
+| [Gosofia Studio](https://github.com/Icezaza2543/gosofia-studio) | A Thai/English artist portfolio and commission website built with Astro, including pricing estimates and a copyable client brief. |
+| [CPE NU Freshman Handbook](https://github.com/Icezaza2543/ecpe-nu-handbook) | An unofficial guide for Naresuan University computer engineering students, with course search, prerequisite graphs, and career roadmaps. |
 
 ---
 
 ## 💼 Work Experience
 
-- **Founder & Lead Software Developer, MitrFlow3D (Smart OS Project)** | *Jan 2026 - Present*
-  - Designed and developed a smart operating system with a Unified Dashboard for centralized 3D Printer Farm management.
-  - Developed a "Cost Engine" for real-time production cost calculation and E-Commerce integration.
+- **Founder & Lead Software Developer, MitrFlow3D** | *Jan 2026 - Present*
+  - Developing a SaaS platform for 3D printer farm operations, with a focus on printer visibility, production queues, and cost management.
+  - Translating print farm workflows into product requirements and dashboard prototypes; backend and device integrations remain in development.
 
 - **Founder & 3D Printing Specialist, BlazeWorks3D** | *Dec 2022 - Present*
-  - Managed and operated a high-performance FDM 3D printer farm, manufacturing engineering and medical-grade components.
+  - Managed and operated a high-performance FDM 3D printer farm, producing functional prototypes and engineering components.
   - Provided technical consulting on CAD design, machine configurations, and slicing software for specialized applications.
 
 - **Freelance 3D Mechanical Designer** | *2023 - Present*
@@ -71,15 +98,17 @@ Obtain a position relating to Hardware/Software Engineering, Network & IT Infras
   </table>
 </div>
 
+- **Web & Data:** TypeScript, JavaScript, React, Vite, Astro, Tailwind CSS, Python, IndexedDB, JSON Schema, and GitHub Actions across web applications, analytics dashboards, and filament data tooling.
 - **3D Printing & CAD:** Design & Build of FDM 3D printers, Parametric & Mesh Design (Autodesk Fusion 360, SketchUp, TinkerCAD). Slicing Software (OrcaSlicer, Cura, Bambu Studio, Creality Print, Anycubic). Rendering with Keyshot.
-- **Network & IT Infrastructure:** Designing, configuring, installing, and maintaining LAN Hardware. Expert in setting up Mikrotik (SwitchOS/RouterOS), Zyxel Switch, Synology NAS, Pi-Hole, Linux, and VMware virtual environments. (Tools: Winbox, MobaXterm).
+- **Network & IT Infrastructure:** Designing, configuring, installing, and maintaining LAN Hardware. Experience setting up Mikrotik (SwitchOS/RouterOS), Zyxel Switch, Synology NAS, Pi-Hole, Linux, and VMware virtual environments. (Tools: Winbox, MobaXterm).
 - **Circuit & Embedded Systems:** Circuit Design (Intermediate), Embedded Programming (Intermediate), PCB Design (KiCad 7-9, Proteus, Favro), and Soldering (Advanced).
 - **Hardware Experience:** Creality Series (Ender3Max, K1 Series, K2Series), Bambulab Series (A1, X1C), ZeroG Mercury One.1 With Nebula Frame. Specialized in high-speed CoreXY builds, multi-material setups, and high-temp material printing (e.g., Nylon, Polycarbonate).
 
 ---
 
-## 🚀 Extracurricular Activities & Projects
+## 🧩 Teaching, Community & Earlier Projects
 
+- **TJ3D:** Thai-language 3D printing lessons, technical articles, troubleshooting guides, and industry analysis.
 - **Vice President:** Supervised and operated the Naresuan University Robot Club.
 - **Hardware & IoT Projects:** Executed AC Wiring and hardware prototyping for a "Smart Consumer Unit" and an "Automatic Laundry Detergent Vending Machine".
 - **Software Projects:** Created a **3D Printing Price Calculator** (Python GUI application).
